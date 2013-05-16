@@ -1,0 +1,782 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 10">
+<link rel=File-List href="nwok_files/filelist.xml">
+<link rel=Edit-Time-Data href="nwok_files/editdata.mso">
+<link rel=OLE-Object-Data href="nwok_files/oledata.mso">
+<title>Strategic Advantage</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>leia.moore</o:LastAuthor>
+  <o:LastSaved>2006-08-08T14:56:21Z</o:LastSaved>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+.checkbox2 A:hover {color: #000000; text-decoration:underline; font-family:Arial, Helvetica, sans-serif;font-size:10px;}
+.navigation1 A:hover {color:#FFFFFF; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.navigation2 A:hover {color:#000000; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.columnheader2 A:hover {color:#000000; text-decoration:underline; font-family:Tahoma;font-size:8pt; font-weight:bold }
+.checkbox2 A:hover {color: #000000; text-decoration:underline; font-family:Arial, Helvetica, sans-serif;font-size:10px;}
+.navigation1 A:hover {color:#FFFFFF; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.navigation2 A:hover {color:#000000; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.columnheader2 A:hover {color:#000000; text-decoration:underline; font-family:Tahoma;font-size:8pt; font-weight:bold }
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl27
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\0022$\0022\#\,\#\#0_\)\;\[Red\]\\\(\0022$\0022\#\,\#\#0\\\)";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	vertical-align:top;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl33
+	{mso-style-parent:style0;
+	vertical-align:top;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	color:white;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl38
+	{mso-style-parent:style0;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>nwok</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>130</x:PaperSizeIndex>
+      <x:Scale>65</x:Scale>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:PageBreakZoom>60</x:PageBreakZoom>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>3</x:ActiveRow>
+       <x:ActiveCol>9</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8955</x:WindowHeight>
+  <x:WindowWidth>15195</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>15</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple leftmargin=0 topmargin=0>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=847 style='border-collapse:
+ collapse;table-layout:fixed;width:636pt' height="100%">
+<!-- Begin main Content (should begin with a tr statement) -->
+ <col width=85 style='mso-width-source:userset;mso-width-alt:3108;width:64pt'>
+ <col width=255 style='mso-width-source:userset;mso-width-alt:9325;width:191pt'>
+ <col width=64 style='mso-width-source:userset;mso-width-alt:2340;width:48pt'>
+ <col width=63 style='mso-width-source:userset;mso-width-alt:2304;width:47pt'>
+ <col width=85 style='mso-width-source:userset;mso-width-alt:3108;width:64pt'>
+ <col width=98 style='mso-width-source:userset;mso-width-alt:3584;width:74pt'>
+ <col width=103 style='mso-width-source:userset;mso-width-alt:3766;width:77pt'>
+ <col width=94 style='mso-width-source:userset;mso-width-alt:3437;width:71pt'>
+ <tr height=50 style='mso-height-source:userset;height:37.5pt'>
+  <td colspan=8 height=50 class=xl34 width=847 style='height:37.5pt;width:636pt'
+  x:str="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Job by Industry ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Job
+  by Industry<span style='mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=8 height=30 class=xl35 width=847 style='border-right:.5pt solid black;
+  height:22.5pt;width:636pt'>Alfalfa, Beaver, Blaine, Cimarron, Custer, Dewey,
+  Ellis, Garfield, Grant, Harper, Kingfisher, Major, Roger Mills, Texas, Woods,
+  Woodward -- 40003, 40007, 40011, 40025, 40039, 40043, 40045, 40047, 40053,
+  40059, 40073, 40093, 40129, 40139, 40151, 40153</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td height=30 class=xl24 width=85 style='height:22.5pt;width:64pt'>NAICS Code</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=255 style='width:191pt'>Name</td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=64 style='width:48pt'><span
+  style='mso-spacerun:yes'> </span>2005 Jobs</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=63 style='width:47pt'>2010 Jobs Projection</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=85 style='width:64pt'>Change in Job</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=98 style='width:74pt'>% Change in Job</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=103 style='width:77pt'>Average Annual Earnings/ Worker</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=94 style='width:71pt'>Establishments</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="110000 " style:>110000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Agriculture, forestry, fishing and hunting ">Agriculture, forestry,
+  fishing and hunting<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="16421">16,421</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="16368">16,368</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>-53</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0">0%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="18181">$18,181 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>157</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="210000 " style:>210000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Mining ">Mining<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="7151">7,151</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="6401">6,401</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>-750</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="-0.1">-10%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="46846">$46,846 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>340</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="220000 " style:>220000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Utilities ">Utilities<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=64 style='width:48pt' x:num>723</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=63 style='width:47pt' x:num>772</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>48</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.07">7%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="115217">$115,217 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>54</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="230000 " style:>230000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Construction ">Construction<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="6196">6,196</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="6929">6,929</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>732</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.12">12%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="29685">$29,685 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>500</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="310000 " style:>310000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Manufacturing ">Manufacturing<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="8726">8,726</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="10157">10,157</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=85 style='width:64pt' x:num="1431">1,431</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.16">16%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="64250">$64,250 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>228</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="420000 " style:>420000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Wholesale trade ">Wholesale
+  trade<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="2954">2,954</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="2808">2,808</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>-146</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="-0.05">-5%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="35762">$35,762 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>357</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="440000 " style:>440000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Retail trade ">Retail
+  trade<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="14332">14,332</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="15573">15,573</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=85 style='width:64pt' x:num="1241">1,241</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.09">9%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="19145">$19,145 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>881</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="480000 " style:>480000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Transportation and warehousing ">Transportation and warehousing<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="3712">3,712</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="4012">4,012</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>300</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.08">8%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="52800">$52,800 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>326</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="510000 " style:>510000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Information ">Information<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="1744">1,744</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="1849">1,849</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>105</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.06">6%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="29327">$29,327 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>93</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="520000 " style:>520000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Finance and insurance ">Finance
+  and insurance<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="4159">4,159</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="4484">4,484</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>326</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.08">8%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="28388">$28,388 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>380</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="530000 " style:>530000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Real estate and rental and leasing ">Real estate and rental and
+  leasing<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="2715">2,715</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="3295">3,295</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>580</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.21">21%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="18995">$18,995 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>175</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="540000 " style:>540000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Professional and technical services ">Professional and technical
+  services<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="4017">4,017</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="4327">4,327</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>310</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.08">8%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="29943">$29,943 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>404</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="550000 " style:>550000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Management of companies and enterprises ">Management of companies and
+  enterprises<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=64 style='width:48pt' x:num>321</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=63 style='width:47pt' x:num>377</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>55</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.17">17%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="35989">$35,989 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>14</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="560000 " style:>560000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Administrative and waste services ">Administrative and waste
+  services<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="3973">3,973</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="5266">5,266</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=85 style='width:64pt' x:num="1293">1,293</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.33">33%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="28067">$28,067 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>168</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="610000 " style:>610000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Educational services ">Educational
+  services<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=64 style='width:48pt' x:num>420</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=63 style='width:47pt' x:num>532</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>112</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.27">27%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="19845">$19,845 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>18</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="620000 " style:>620000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Health care and social assistance ">Health care and social
+  assistance<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="8626">8,626</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="9441">9,441</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>814</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.09">9%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="31963">$31,963 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>494</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="710000 " style:>710000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Arts, entertainment, and recreation ">Arts, entertainment, and
+  recreation<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="1209">1,209</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="1356">1,356</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>146</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.12">12%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="15448">$15,448 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>50</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="720000 " style:>720000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Accommodation and food services ">Accommodation and food services<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="6097">6,097</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="6705">6,705</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>608</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.1">10%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="12331">$12,331 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>385</td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=30 class=xl26 style='height:22.5pt' x:str="810000 " style:>810000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt'
+  x:str="Other services, except public administration ">Other services, except
+  public administration<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="7338">7,338</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="8394">8,394</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=85 style='width:64pt' x:num="1056">1,056</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.14">14%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="15071">$15,071 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>490</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 style='height:12.75pt' x:str="900000 " style:>900000<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=255 style='width:191pt' x:str="Government ">Government<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=64 style='width:48pt' x:num="19122">19,122</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=63 style='width:47pt' x:num="19781">19,781</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=85 style='width:64pt' x:num>659</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=98 style='width:74pt' x:num="0.03">3%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl31 width=103 style='width:77pt' x:num="40310">$40,310 </td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=94 style='width:71pt' x:num>668</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl32 colspan=2 style='height:12.75pt;mso-ignore:colspan'>Source:
+  Economic Modeling Specialist Inc.</td>
+  <td colspan=6 class=xl33 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td colspan=8 height=40 class=xl38 width=847 style='height:30.0pt;width:636pt'>&nbsp;&nbsp;</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=85 style='width:64pt'></td>
+  <td width=255 style='width:191pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=98 style='width:74pt'></td>
+  <td width=103 style='width:77pt'></td>
+  <td width=94 style='width:71pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

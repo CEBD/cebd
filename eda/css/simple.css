@@ -1,0 +1,51 @@
+/* Contains the most basic CSS rules and imports full stylesheet for compliant browsers */
+/* Revised on July 4, 2005 \*/
+@import url("full.css");
+
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: small;
+}
+img {
+	border: 0px;
+}
+a {
+	color: #293f6f;
+}
+a:visited {
+	color: #333333;
+}
+a:active{
+	color: #762418;
+}
+a:hover{
+	color: #762418;
+}
+h1 {
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+	color: #000;
+	margin-top: 2px;
+	padding-top: 2px;
+	margin: 0 0 2em 0;
+}
+h2 {
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 1.5em;
+	color: #010f3c;
+	padding: 0;
+	margin: 1.2em 0 1em 0;
+}
+h3 {
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #010f3c;
+	padding: 0 0 2px 17px;
+	margin: 1.2em 0 -.2em 0;
+	border-bottom: 1px solid #010f3c;
+}
+h4 {
+
+}

@@ -1,0 +1,1185 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 10">
+<link rel=File-List href="Oklahoma_files/filelist.xml">
+<link rel=Edit-Time-Data href="Oklahoma_files/editdata.mso">
+<link rel=OLE-Object-Data href="Oklahoma_files/oledata.mso">
+<title>Strategic Advantage</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>leia.moore</o:LastAuthor>
+  <o:LastPrinted>2006-08-08T15:35:27Z</o:LastPrinted>
+  <o:LastSaved>2006-08-08T15:35:28Z</o:LastSaved>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-orientation:landscape;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#333333;
+	mso-pattern:auto none;}
+.xl25
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl27
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl29
+	{mso-style-parent:style0;
+	mso-number-format:0%;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl30
+	{mso-style-parent:style0;
+	mso-number-format:"\0022$\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022$\0022\#\,\#\#0\.00\\\)";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl31
+	{mso-style-parent:style0;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;}
+.xl32
+	{mso-style-parent:style0;
+	color:white;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	color:white;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	color:white;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	color:black;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	color:black;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	color:black;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl38
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl39
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl40
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl41
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl42
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl43
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl44
+	{mso-style-parent:style0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl45
+	{mso-style-parent:style0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl46
+	{mso-style-parent:style0;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333333;
+	mso-pattern:auto none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Oklahoma</x:Name>
+    <x:WorksheetOptions>
+     <x:FitToPage/>
+     <x:FitToPage/>
+     <x:Print>
+      <x:FitHeight>4</x:FitHeight>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>130</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:PageBreakZoom>60</x:PageBreakZoom>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>5</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8955</x:WindowHeight>
+  <x:WindowWidth>15195</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>15</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:ExcelName>
+  <x:Name>Print_Area</x:Name>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=Oklahoma!$A$1:$F$109</x:Formula>
+ </x:ExcelName>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple leftmargin=0 topmargin=0 rightmargin=0>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=899 style='border-collapse:
+ collapse;table-layout:fixed;width:675pt'>
+ <col width=561 style='mso-width-source:userset;mso-width-alt:20516;width:421pt'>
+ <col width=79 style='mso-width-source:userset;mso-width-alt:2889;width:59pt'>
+ <col width=72 style='mso-width-source:userset;mso-width-alt:2633;width:54pt'>
+ <col width=70 style='mso-width-source:userset;mso-width-alt:2560;width:53pt'>
+ <col width=117 style='mso-width-source:userset;mso-width-alt:4278;width:88pt'>
+ <tr height=70 style='mso-height-source:userset;height:52.5pt'>
+  <td colspan=5 height=70 class=xl32 width=899 style='border-right:.5pt solid black;
+  height:52.5pt;width:675pt'><span align=left>Career Pathways</span></td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=5 height=30 class=xl35 width=899 style='border-right:.5pt solid black;
+  height:22.5pt;width:675pt'>Projected Supply</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=5 height=17 class=xl38 width=899 style='border-right:.5pt solid black;
+  height:12.75pt;width:675pt'
+  x:str="For Counties: (Adair, 40001) (Alfalfa, 40003) (Atoka, 40005) (Beaver, 40007) (Beckham, 40009) (Blaine, 40011) (Bryan, 40013) (Caddo, 40015) (Canadian, 40017) (Carter, 40019) (Cherokee, 40021) (Choctaw, 40023) (Cimarron, 40025) (Cleveland, 40027) (Coal, 40029) (Comanche, 40031) (Cotton, 40033) (Craig, 40035) (Creek, 40037) (Custer, 40039) (Delaware, 40041) (Dewey, 40043) (Ellis, 40045) (Garfield, 40047) (Garvin, 40049) (Grady, 40051) (Grant, 40053) (Greer, 40055) (Harmon, 40057) (Harper, 40059) (Haskell, 40061) (Hughes, 40063) (Jackson, 40065) (Jefferson, 40067) (Johnston, 40069) (Kay, 40071) (Kingfisher, 40073) (Kiowa, 40075) (Latimer, 40077) (Le Flore, 40079) (Lincoln, 40081) (Logan, 40083) (Love, 40085) (McClain, 40087) (McCurtain, 40089) (McIntosh, 40091) (Major, 40093) (Marshall, 40095) (Mayes, 40097) (Murray, 40099) (Muskogee, 40101) (Noble, 40103) (Nowata, 40105) (Okfuskee, 40107) (Oklahoma, 40109) (Okmulgee, 40111) (Osage, 40113) (Ottawa, 40115) (Pawnee, 40117) (Payne, 40119) (Pittsburg, 40121) (Pontotoc, 40123) (Pottawatomie, 40125) (Pushmataha, 40127) (Roger Mills, 40129) (Rogers, 40131) (Seminole, 40133) (Sequoyah, 40135) (Stephens, 40137) (Texas, 40139) (Tillman, 40141) (Tulsa, 40143) (Wagoner, 40145) (Washington, 40147) (Washita, 40149) (Woods, 40151) (Woodward, 40153)">For
+  Counties: (Adair, 40001) (Alfalfa, 40003) (Atoka, 40005) (Beaver, 40007)
+  (Beckham, 40009) (Blaine, 40011) (Bryan, 40013) (Caddo, 40015) (Canadian,
+  40017) (Carter, 40019) (Cherokee, 40021) (Choctaw, 40023) (Cimarron, 40025)
+  (Cleveland, 40027) (Coal, 40029) (Comanche, 40031) (Cotton, 40033) (Craig,
+  40035) (Creek, 40037) (Custer, 40039) (Delaware, 40041) (Dewey, 40043)
+  (Ellis, 40045) (Garfield, 40047) (Garvin, 40049) (Grady, 40051) (Grant,
+  40053) (Greer, 40055) (Harmon, 40057) (Harper, 40059) (Haskell, 40061)
+  (Hughes, 40063) (Jackson, 40065) (Jefferson, 40067) (Johnston, 40069) (Kay,
+  40071) (Kingfisher, 40073) (Kiowa, 40075) (Latimer, 40077) (Le Flore, 40079)
+  (Lincoln, 40081) (Logan, 40083) (Love, 40085) (McClain, 40087) (McCurtain,
+  40089) (McIntosh, 40091) (Major, 40093) (Marshall, 40095) (Mayes, 40097)
+  (Murray, 40099) (Muskogee, 40101) (Noble, 40103) (Nowata, 40105) (Okfuskee,
+  40107) (Oklahoma, 40109) (Okmulgee, 40111) (Osage, 40113) (Ottawa, 40115)
+  (Pawnee, 40117) (Payne, 40119) (Pittsburg, 40121) (Pontotoc, 40123)
+  (Pottawatomie, 40125) (Pushmataha, 40127) (Roger Mills, 40129) (Rogers,
+  40131) (Seminole, 40133) (Sequoyah, 40135) (Stephens, 40137) (Texas, 40139)
+  (Tillman, 40141) (Tulsa, 40143) (Wagoner, 40145) (Washington, 40147)
+  (Washita, 40149) (Woods, 40151) (Woodward, 40153)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=5 height=17 class=xl38 width=899 style='border-right:.5pt solid black;
+  height:12.75pt;width:675pt'>Start Year: 2005</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td colspan=5 height=17 class=xl41 width=899 style='border-right:.5pt solid black;
+  height:12.75pt;width:675pt'>End Year: 2010</td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl24 style='height:30.0pt'><!--Main Content-->Occupation</td>
+  <td class=xl25 width=79 style='width:59pt'>O*NET-SOC Code</td>
+  <td class=xl25 width=72 style='width:54pt'>Change in Jobs</td>
+  <td class=xl25 width=70 style='width:53pt'>% Change in Jobs</td>
+  <td class=xl25 width=117 style='width:88pt'>Average Hourly Earnings/ Worker</td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Photographers</td>
+  <td class=xl27 width=79 style='width:59pt'>27-4021.00</td>
+  <td class=xl28 x:num="-1335">-1,335</td>
+  <td class=xl29 x:num="-0.28">-28%</td>
+  <td class=xl30 x:num="11.56">$11.56 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Telemarketers</td>
+  <td class=xl27 width=79 style='width:59pt'>41-9041.00</td>
+  <td class=xl28 x:num="-1129">-1,129</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="7.88">$7.88 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Lawyers</td>
+  <td class=xl27 width=79 style='width:59pt'>23-1011.00</td>
+  <td class=xl31 x:num>-704</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="29.62">$29.62 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Stock clerks and order fillers</td>
+  <td class=xl27 width=79 style='width:59pt'>43-5081.00</td>
+  <td class=xl31 x:num>-600</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="10.6">$10.60 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Directors, religious
+  activities and education</td>
+  <td class=xl27 width=79 style='width:59pt'>21-2021.00</td>
+  <td class=xl31 x:num>-451</td>
+  <td class=xl29 x:num="-0.34">-34%</td>
+  <td class=xl30 x:num="5.97">$5.97 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>File clerks</td>
+  <td class=xl27 width=79 style='width:59pt'>43-4071.00</td>
+  <td class=xl31 x:num>-408</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="10.58">$10.58 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Pump operators, except
+  wellhead pumpers</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7072.00</td>
+  <td class=xl31 x:num>-353</td>
+  <td class=xl29 x:num="-0.24">-24%</td>
+  <td class=xl30 x:num="23.03">$23.03 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Petroleum pump system
+  operators, refinery operators, and gaugers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-8093.00</td>
+  <td class=xl31 x:num>-338</td>
+  <td class=xl29 x:num="-0.13">-13%</td>
+  <td class=xl30 x:num="28.95">$28.95 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Order clerks</td>
+  <td class=xl27 width=79 style='width:59pt'>43-4151.00</td>
+  <td class=xl31 x:num>-322</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="11.28">$11.28 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Wellhead pumpers</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7073.00</td>
+  <td class=xl31 x:num>-310</td>
+  <td class=xl29 x:num="-0.19">-19%</td>
+  <td class=xl30 x:num="23.3">$23.30 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Computer operators</td>
+  <td class=xl27 width=79 style='width:59pt'>43-9011.00</td>
+  <td class=xl31 x:num>-264</td>
+  <td class=xl29 x:num="-0.14">-14%</td>
+  <td class=xl30 x:num="13.76">$13.76 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Petroleum engineers</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2171.00</td>
+  <td class=xl31 x:num>-253</td>
+  <td class=xl29 x:num="-0.12">-12%</td>
+  <td class=xl30 x:num="35.95">$35.95 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Mail clerks and mail machine
+  operators, except postal service</td>
+  <td class=xl27 width=79 style='width:59pt'>43-9051.00</td>
+  <td class=xl31 x:num>-249</td>
+  <td class=xl29 x:num="-0.16">-16%</td>
+  <td class=xl30 x:num="9.78">$9.78 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Sewing machine operators</td>
+  <td class=xl27 width=79 style='width:59pt'>51-6031.00</td>
+  <td class=xl31 x:num>-213</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="8.21">$8.21 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Farm equipment mechanics</td>
+  <td class=xl27 width=79 style='width:59pt'>49-3041.00</td>
+  <td class=xl31 x:num>-197</td>
+  <td class=xl29 x:num="-0.27">-27%</td>
+  <td class=xl30 x:num="15.73">$15.73 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Photographic processing
+  machine operators</td>
+  <td class=xl27 width=79 style='width:59pt'>51-9132.00</td>
+  <td class=xl31 x:num>-164</td>
+  <td class=xl29 x:num="-0.18">-18%</td>
+  <td class=xl30 x:num="7.64">$7.64 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Rail car repairers</td>
+  <td class=xl27 width=79 style='width:59pt'>49-3043.00</td>
+  <td class=xl31 x:num>-163</td>
+  <td class=xl29 x:num="-0.36">-36%</td>
+  <td class=xl30 x:num="20.32">$20.32 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Geoscientists, except
+  hydrologists and geographers</td>
+  <td class=xl27 width=79 style='width:59pt'>19-2042.00</td>
+  <td class=xl31 x:num>-162</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="36.89">$36.89 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Derrick operators, oil and gas</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5011.00</td>
+  <td class=xl31 x:num>-160</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="18.1">$18.10 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Switchboard operators,
+  including answering service</td>
+  <td class=xl27 width=79 style='width:59pt'>43-2011.00</td>
+  <td class=xl31 x:num>-157</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="9.7">$9.70 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Cutting, punching, and press
+  machine setters, operators, and tenders, metal and plastic</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4031.00</td>
+  <td class=xl31 x:num>-156</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="13.36">$13.36 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Tax preparers</td>
+  <td class=xl27 width=79 style='width:59pt'>13-2082.00</td>
+  <td class=xl31 x:num>-156</td>
+  <td class=xl29 x:num="-0.13">-13%</td>
+  <td class=xl30 x:num="11.49">$11.49 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Veterinarians</td>
+  <td class=xl27 width=79 style='width:59pt'>29-1131.00</td>
+  <td class=xl31 x:num>-145</td>
+  <td class=xl29 x:num="-0.14">-14%</td>
+  <td class=xl30 x:num="20.39">$20.39 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Meter readers, utilities</td>
+  <td class=xl27 width=79 style='width:59pt'>43-5041.00</td>
+  <td class=xl31 x:num>-136</td>
+  <td class=xl29 x:num="-0.17">-17%</td>
+  <td class=xl30 x:num="12.98">$12.98 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Gas compressor and gas pumping
+  station operators</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7071.00</td>
+  <td class=xl31 x:num>-129</td>
+  <td class=xl29 x:num="-0.16">-16%</td>
+  <td class=xl30 x:num="24.81">$24.81 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Couriers and messengers</td>
+  <td class=xl27 width=79 style='width:59pt'>43-5021.00</td>
+  <td class=xl31 x:num>-129</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="5.8">$5.80 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Travel agents</td>
+  <td class=xl27 width=79 style='width:59pt'>41-3041.00</td>
+  <td class=xl31 x:num>-126</td>
+  <td class=xl29 x:num="-0.15">-15%</td>
+  <td class=xl30 x:num="13.07">$13.07 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Service unit operators, oil,
+  gas, and mining</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5013.00</td>
+  <td class=xl31 x:num>-121</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="18.07">$18.07 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Roustabouts, oil and gas</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5071.00</td>
+  <td class=xl31 x:num>-120</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="16.73">$16.73 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Mobile heavy equipment
+  mechanics, except engines</td>
+  <td class=xl27 width=79 style='width:59pt'>49-3042.00</td>
+  <td class=xl31 x:num>-116</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="15.11">$15.11 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Credit authorizers, checkers,
+  and clerks</td>
+  <td class=xl27 width=79 style='width:59pt'>43-4041.00</td>
+  <td class=xl31 x:num>-104</td>
+  <td class=xl29 x:num="-0.17">-17%</td>
+  <td class=xl30 x:num="12.37">$12.37 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Rotary drill operators, oil
+  and gas</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5012.00</td>
+  <td class=xl31 x:num>-101</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="19.09">$19.09 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Office machine operators,
+  except computer</td>
+  <td class=xl27 width=79 style='width:59pt'>43-9071.00</td>
+  <td class=xl31 x:num>-100</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="10.5">$10.50 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Landscape architects</td>
+  <td class=xl27 width=79 style='width:59pt'>17-1012.00</td>
+  <td class=xl31 x:num>-97</td>
+  <td class=xl29 x:num="-0.23">-23%</td>
+  <td class=xl30 x:num="16.16">$16.16 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Interpreters and translators</td>
+  <td class=xl27 width=79 style='width:59pt'>27-3091.00</td>
+  <td class=xl31 x:num>-91</td>
+  <td class=xl29 x:num="-0.13">-13%</td>
+  <td class=xl30 x:num="12.11">$12.11 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Parts salespersons</td>
+  <td class=xl27 width=79 style='width:59pt'>41-2022.00</td>
+  <td class=xl31 x:num>-84</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="12.34">$12.34 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Photographic process workers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-9131.00</td>
+  <td class=xl31 x:num>-72</td>
+  <td class=xl29 x:num="-0.09">-9%</td>
+  <td class=xl30 x:num="8.43">$8.43 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Helpers—Extraction workers</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5081.00</td>
+  <td class=xl31 x:num>-70</td>
+  <td class=xl29 x:num="-0.04">-4%</td>
+  <td class=xl30 x:num="14.43">$14.43 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Mining and geological
+  engineers, including mining safety engineers</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2151.00</td>
+  <td class=xl31 x:num>-70</td>
+  <td class=xl29 x:num="-0.14">-14%</td>
+  <td class=xl30 x:num="29.87">$29.87 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Parking lot attendants</td>
+  <td class=xl27 width=79 style='width:59pt'>53-6021.00</td>
+  <td class=xl31 x:num>-61</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="6.93">$6.93 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Electromechanical equipment
+  assemblers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-2023.00</td>
+  <td class=xl31 x:num>-60</td>
+  <td class=xl29 x:num="-0.13">-13%</td>
+  <td class=xl30 x:num="13.16">$13.16 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Locomotive engineers and
+  operators</td>
+  <td class=xl27 width=79 style='width:59pt'>53-4010.00</td>
+  <td class=xl31 x:num>-57</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="20.9">$20.90 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Extruding and drawing machine
+  setters, operators, and tenders, metal and plastic</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4021.00</td>
+  <td class=xl31 x:num>-54</td>
+  <td class=xl29 x:num="-0.09">-9%</td>
+  <td class=xl30 x:num="12.67">$12.67 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Civil engineers</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2051.00</td>
+  <td class=xl31 x:num>-52</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="27.66">$27.66 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Title examiners, abstractors,
+  and searchers</td>
+  <td class=xl27 width=79 style='width:59pt'>23-2093.00</td>
+  <td class=xl31 x:num>-51</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="18.93">$18.93 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Architects, except landscape
+  and naval</td>
+  <td class=xl27 width=79 style='width:59pt'>17-1011.00</td>
+  <td class=xl31 x:num>-47</td>
+  <td class=xl29 x:num="-0.04">-4%</td>
+  <td class=xl30 x:num="22">$22.00 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Machine feeders and offbearers</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7063.00</td>
+  <td class=xl31 x:num>-46</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="11.43">$11.43 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Farmworkers, farm and ranch
+  animals</td>
+  <td class=xl27 width=79 style='width:59pt'>45-2093.00</td>
+  <td class=xl31 x:num>-39</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="6.35">$6.35 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Clergy</td>
+  <td class=xl27 width=79 style='width:59pt'>21-2011.00</td>
+  <td class=xl31 x:num>-38</td>
+  <td class=xl29 x:num="-0.1">-10%</td>
+  <td class=xl30 x:num="12.25">$12.25 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Aerospace engineers</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2011.00</td>
+  <td class=xl31 x:num>-37</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="39.62">$39.62 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Chemical plant and system
+  operators</td>
+  <td class=xl27 width=79 style='width:59pt'>51-8091.00</td>
+  <td class=xl31 x:num>-33</td>
+  <td class=xl29 x:num="-0.19">-19%</td>
+  <td class=xl30 x:num="50.75">$50.75 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Loan interviewers and clerks</td>
+  <td class=xl27 width=79 style='width:59pt'>43-4131.00</td>
+  <td class=xl31 x:num>-32</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="13.11">$13.11 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Railroad brake, signal, and
+  switch operators</td>
+  <td class=xl27 width=79 style='width:59pt'>53-4021.00</td>
+  <td class=xl31 x:num>-32</td>
+  <td class=xl29 x:num="-0.14">-14%</td>
+  <td class=xl30 x:num="19.5">$19.50 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Prepress technicians and
+  workers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-5022.00</td>
+  <td class=xl31 x:num>-31</td>
+  <td class=xl29 x:num="-0.04">-4%</td>
+  <td class=xl30 x:num="15.11">$15.11 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Psychiatric aides</td>
+  <td class=xl27 width=79 style='width:59pt'>31-1013.00</td>
+  <td class=xl31 x:num>-31</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="10.55">$10.55 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Explosives workers, ordnance
+  handling experts, and blasters</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5031.00</td>
+  <td class=xl31 x:num>-31</td>
+  <td class=xl29 x:num="-0.06">-6%</td>
+  <td class=xl30 x:num="15.61">$15.61 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Fallers</td>
+  <td class=xl27 width=79 style='width:59pt'>45-4021.00</td>
+  <td class=xl31 x:num>-30</td>
+  <td class=xl29 x:num="-0.26">-26%</td>
+  <td class=xl30 x:num="13.5">$13.50 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Molding, coremaking, and
+  casting machine setters, operators, and tenders, metal and plastic</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4072.00</td>
+  <td class=xl31 x:num>-27</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="12.09">$12.09 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Chemical technicians</td>
+  <td class=xl27 width=79 style='width:59pt'>19-4031.00</td>
+  <td class=xl31 x:num>-25</td>
+  <td class=xl29 x:num="-0.06">-6%</td>
+  <td class=xl30 x:num="29.44">$29.44 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Tank car, truck, and ship
+  loaders</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7121.00</td>
+  <td class=xl31 x:num>-24</td>
+  <td class=xl29 x:num="-0.13">-13%</td>
+  <td class=xl30 x:num="16.74">$16.74 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Textile winding, twisting, and
+  drawing out machine setters, operators, and tenders</td>
+  <td class=xl27 width=79 style='width:59pt'>51-6064.00</td>
+  <td class=xl31 x:num>-24</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="10.14">$10.14 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Marine engineers and naval
+  architects</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2121.00</td>
+  <td class=xl31 x:num>-23</td>
+  <td class=xl29 x:num="-0.16">-16%</td>
+  <td class=xl30 x:num="26.26">$26.26 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Structural metal fabricators
+  and fitters</td>
+  <td class=xl27 width=79 style='width:59pt'>51-2041.00</td>
+  <td class=xl31 x:num>-23</td>
+  <td class=xl29 x:num="-0.01">-1%</td>
+  <td class=xl30 x:num="13.67">$13.67 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Surveying and mapping
+  technicians</td>
+  <td class=xl27 width=79 style='width:59pt'>17-3031.00</td>
+  <td class=xl31 x:num>-23</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="15.84">$15.84 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Logging equipment operators</td>
+  <td class=xl27 width=79 style='width:59pt'>45-4022.00</td>
+  <td class=xl31 x:num>-22</td>
+  <td class=xl29 x:num="-0.08">-8%</td>
+  <td class=xl30 x:num="16.03">$16.03 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Telephone operators</td>
+  <td class=xl27 width=79 style='width:59pt'>43-2021.00</td>
+  <td class=xl31 x:num>-21</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="11.42">$11.42 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Job printers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-5021.00</td>
+  <td class=xl31 x:num>-21</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="13.82">$13.82 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Chemical engineers</td>
+  <td class=xl27 width=79 style='width:59pt'>17-2041.00</td>
+  <td class=xl31 x:num>-20</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="51.15">$51.15 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Fabric and apparel
+  patternmakers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-6092.00</td>
+  <td class=xl31 x:num>-19</td>
+  <td class=xl29 x:num="-0.19">-19%</td>
+  <td class=xl30 x:num="12.76">$12.76 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Textile knitting and weaving
+  machine setters, operators, and tenders</td>
+  <td class=xl27 width=79 style='width:59pt'>51-6063.00</td>
+  <td class=xl31 x:num>-19</td>
+  <td class=xl29 x:num="-0.3">-30%</td>
+  <td class=xl30 x:num="11.04">$11.04 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Sawing machine setters,
+  operators, and tenders, wood</td>
+  <td class=xl27 width=79 style='width:59pt'>51-7041.00</td>
+  <td class=xl31 x:num>-18</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="9.5">$9.50 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Coil winders, tapers, and
+  finishers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-2021.00</td>
+  <td class=xl31 x:num>-18</td>
+  <td class=xl29 x:num="-0.12">-12%</td>
+  <td class=xl30 x:num="13.24">$13.24 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Purchasing agents and buyers,
+  farm products</td>
+  <td class=xl27 width=79 style='width:59pt'>13-1021.00</td>
+  <td class=xl31 x:num>-17</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="16.94">$16.94 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Fishers and related fishing
+  workers</td>
+  <td class=xl27 width=79 style='width:59pt'>45-3011.00</td>
+  <td class=xl31 x:num>-17</td>
+  <td class=xl29 x:num="-0.18">-18%</td>
+  <td class=xl30 x:num="9.42">$9.42 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Electrical and electronic
+  equipment assemblers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-2022.00</td>
+  <td class=xl31 x:num>-16</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="13.59">$13.59 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Roof bolters, mining</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5061.00</td>
+  <td class=xl31 x:num>-16</td>
+  <td class=xl29 x:num="-0.15">-15%</td>
+  <td class=xl30 x:num="25.23">$25.23 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Maintenance workers, machinery</td>
+  <td class=xl27 width=79 style='width:59pt'>49-9043.00</td>
+  <td class=xl31 x:num>-16</td>
+  <td class=xl29 x:num="-0.01">-1%</td>
+  <td class=xl30 x:num="16.76">$16.76 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Coin, vending, and amusement
+  machine servicers and repairers</td>
+  <td class=xl27 width=79 style='width:59pt'>49-9091.00</td>
+  <td class=xl31 x:num>-15</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="8.87">$8.87 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Hydrologists</td>
+  <td class=xl27 width=79 style='width:59pt'>19-2043.00</td>
+  <td class=xl31 x:num>-14</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="27.61">$27.61 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Extruding and forming machine
+  setters, operators, and tenders, synthetic and glass fibers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-6091.00</td>
+  <td class=xl31 x:num>-14</td>
+  <td class=xl29 x:num="-0.06">-6%</td>
+  <td class=xl30 x:num="13">$13.00 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Aircraft structure, surfaces,
+  rigging, and systems assemblers</td>
+  <td class=xl27 width=79 style='width:59pt'>51-2011.00</td>
+  <td class=xl31 x:num>-13</td>
+  <td class=xl29 x:num="-0.06">-6%</td>
+  <td class=xl30 x:num="17.07">$17.07 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Glaziers</td>
+  <td class=xl27 width=79 style='width:59pt'>47-2121.00</td>
+  <td class=xl31 x:num>-13</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="11.15">$11.15 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Rail-track laying and
+  maintenance equipment operators</td>
+  <td class=xl27 width=79 style='width:59pt'>47-4061.00</td>
+  <td class=xl31 x:num>-12</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="18.83">$18.83 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Computer programmers</td>
+  <td class=xl27 width=79 style='width:59pt'>15-1021.00</td>
+  <td class=xl31 x:num>-12</td>
+  <td class=xl29 x:num="0">0%</td>
+  <td class=xl30 x:num="23.35">$23.35 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Mine cutting and channeling
+  machine operators</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5042.00</td>
+  <td class=xl31 x:num>-12</td>
+  <td class=xl29 x:num="-0.12">-12%</td>
+  <td class=xl30 x:num="20.4">$20.40 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Lay-out workers, metal and
+  plastic</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4192.00</td>
+  <td class=xl31 x:num>-12</td>
+  <td class=xl29 x:num="-0.04">-4%</td>
+  <td class=xl30 x:num="13.23">$13.23 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Grinding and polishing
+  workers, hand</td>
+  <td class=xl27 width=79 style='width:59pt'>51-9022.00</td>
+  <td class=xl31 x:num>-12</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="11.51">$11.51 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Reinforcing iron and rebar
+  workers</td>
+  <td class=xl27 width=79 style='width:59pt'>47-2171.00</td>
+  <td class=xl31 x:num>-11</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="13.28">$13.28 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Eligibility interviewers,
+  government programs</td>
+  <td class=xl27 width=79 style='width:59pt'>43-4061.00</td>
+  <td class=xl31 x:num>-11</td>
+  <td class=xl29 x:num="-0.01">-1%</td>
+  <td class=xl30 x:num="12.97">$12.97 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Drilling and boring machine
+  tool setters, operators, and tenders, metal and plastic</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4032.00</td>
+  <td class=xl31 x:num>-10</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="14.63">$14.63 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Cargo and freight agents</td>
+  <td class=xl27 width=79 style='width:59pt'>43-5011.00</td>
+  <td class=xl31 x:num>-10</td>
+  <td class=xl29 x:num="-0.01">-1%</td>
+  <td class=xl30 x:num="16.33">$16.33 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Chemical equipment operators
+  and tenders</td>
+  <td class=xl27 width=79 style='width:59pt'>51-9011.00</td>
+  <td class=xl31 x:num>-9</td>
+  <td class=xl29 x:num="-0.03">-3%</td>
+  <td class=xl30 x:num="26.39">$26.39 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Continuous mining machine
+  operators</td>
+  <td class=xl27 width=79 style='width:59pt'>47-5041.00</td>
+  <td class=xl31 x:num>-9</td>
+  <td class=xl29 x:num="-0.11">-11%</td>
+  <td class=xl30 x:num="20.48">$20.48 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Gas plant operators</td>
+  <td class=xl27 width=79 style='width:59pt'>51-8092.00</td>
+  <td class=xl31 x:num>-8</td>
+  <td class=xl29 x:num="-0.01">-1%</td>
+  <td class=xl30 x:num="25.05">$25.05 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Chemists</td>
+  <td class=xl27 width=79 style='width:59pt'>19-2031.00</td>
+  <td class=xl31 x:num>-7</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="26.44">$26.44 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Bookbinders</td>
+  <td class=xl27 width=79 style='width:59pt'>51-5012.00</td>
+  <td class=xl31 x:num>-7</td>
+  <td class=xl29 x:num="-0.08">-8%</td>
+  <td class=xl30 x:num="12.65">$12.65 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Carpet installers</td>
+  <td class=xl27 width=79 style='width:59pt'>47-2041.00</td>
+  <td class=xl31 x:num>-7</td>
+  <td class=xl29 x:num="-0.02">-2%</td>
+  <td class=xl30 x:num="10.73">$10.73 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Pourers and casters, metal</td>
+  <td class=xl27 width=79 style='width:59pt'>51-4052.00</td>
+  <td class=xl31 x:num>-7</td>
+  <td class=xl29 x:num="-0.05">-5%</td>
+  <td class=xl30 x:num="13.78">$13.78 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt'>
+  <td height=22 class=xl26 style='height:16.5pt'>Cartographers and
+  photogrammetrists</td>
+  <td class=xl27 width=79 style='width:59pt'>17-1021.00</td>
+  <td class=xl31 x:num>-7</td>
+  <td class=xl29 x:num="-0.07">-7%</td>
+  <td class=xl30 x:num="18.5">$18.50 </td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.5pt' bgcolor="">
+  <td height=22 class=xl26 style='height:16.5pt'>Loading machine operators,
+  underground mining</td>
+  <td class=xl27 width=79 style='width:59pt'>53-7033.00</td>
+  <td class=xl31 x:num>-6</td>
+  <td class=xl29 x:num="-0.06">-6%</td>
+  <td class=xl30 x:num="19.24">$19.24 <!--End Main Content--></td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+  <td colspan=5 height=30 class=xl44 width=899 style='border-right:.5pt solid black;
+  height:22.5pt;width:675pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=5 style='height:12.75pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 style='height:12.75pt'>Source: Economic Modeling Specialists
+  Inc.</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=561 style='width:421pt'></td>
+  <td width=79 style='width:59pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=70 style='width:53pt'></td>
+  <td width=117 style='width:88pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

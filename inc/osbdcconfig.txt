@@ -1,0 +1,6 @@
+# Check the datatypes on some of the fields
+
+mailto : osbdc@swosu.edu
+mimeon : yes
+nomailfooter : yes
+gotosuccess : http://www.swosu.edu/bdc/

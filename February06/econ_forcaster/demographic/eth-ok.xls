@@ -1,0 +1,488 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 10">
+<link rel=File-List href="ok_files/filelist.xml">
+<link rel=Edit-Time-Data href="ok_files/editdata.mso">
+<link rel=OLE-Object-Data href="ok_files/oledata.mso">
+<title>Strategic Advantage</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>leia.moore</o:LastAuthor>
+  <o:LastSaved>2006-08-08T14:52:15Z</o:LastSaved>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+.checkbox2 A:hover {color: #000000; text-decoration:underline; font-family:Arial, Helvetica, sans-serif;font-size:10px;}
+.navigation1 A:hover {color:#FFFFFF; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.navigation2 A:hover {color:#000000; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.columnheader2 A:hover {color:#000000; text-decoration:underline; font-family:Tahoma;font-size:8pt; font-weight:bold }
+.checkbox2 A:hover {color: #000000; text-decoration:underline; font-family:Arial, Helvetica, sans-serif;font-size:10px;}
+.navigation1 A:hover {color:#FFFFFF; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.navigation2 A:hover {color:#000000; text-decoration:underline; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:8pt; line-height: 20px; }
+.columnheader2 A:hover {color:#000000; text-decoration:underline; font-family:Tahoma;font-size:8pt; font-weight:bold }
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Percent;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:right;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl31
+	{mso-style-parent:style0;
+	vertical-align:top;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	color:white;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid black;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	background:gray;
+	mso-pattern:auto none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>ok</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>130</x:PaperSizeIndex>
+      <x:Scale>67</x:Scale>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:PageBreakZoom>60</x:PageBreakZoom>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>9</x:ActiveRow>
+       <x:ActiveCol>7</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8955</x:WindowHeight>
+  <x:WindowWidth>15195</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>15</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:ExcelName>
+  <x:Name>Print_Area</x:Name>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=ok!$A$1:$G$13</x:Formula>
+ </x:ExcelName>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple leftmargin=0 topmargin=0>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=720 style='border-collapse:
+ collapse;table-layout:fixed;width:542pt' height="100%">
+<!-- Begin main Content (should begin with a tr statement) -->
+ <col width=262 style='mso-width-source:userset;mso-width-alt:9581;width:197pt'>
+ <col width=93 span=2 style='mso-width-source:userset;mso-width-alt:3401;
+ width:70pt'>
+ <col width=65 style='mso-width-source:userset;mso-width-alt:2377;width:49pt'>
+ <col width=74 style='mso-width-source:userset;mso-width-alt:2706;width:56pt'>
+ <col width=133 style='mso-width-source:userset;mso-width-alt:4864;width:100pt'>
+ <tr height=50 style='mso-height-source:userset;height:37.5pt'>
+  <td colspan=6 height=50 class=xl32 width=720 style='height:37.5pt;width:542pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demographic<span
+  style='mso-spacerun:yes'>  </span>by Ethnicity</td>
+ </tr>
+ <tr height=135 style='mso-height-source:userset;height:101.25pt'>
+  <td colspan=6 height=135 class=xl33 width=720 style='border-right:.5pt solid black;
+  height:101.25pt;width:542pt'
+  x:str="Adair, Alfalfa, Atoka, Beaver, Beckham, Blaine, Bryan, Caddo, Canadian, Carter, Cherokee, Choctaw, Cimarron, Cleveland, Coal, Comanche, Cotton, Craig, Creek, Custer, Delaware, Dewey, Ellis, Garfield, Garvin, Grady, Grant, Greer, Harmon, Harper, Haskell, Hughes, Jackson, Jefferson, Johnston, Kay, Kingfisher, Kiowa, Latimer, Le Flore, Lincoln, Logan, Love, McClain, McCurtain, McIntosh, Major, Marshall, Mayes, Murray, Muskogee, Noble, Nowata, Okfuskee, Oklahoma, Okmulgee, Osage, Ottawa, Pawnee, Payne, Pittsburg, Pontotoc, Pottawatomie, Pushmataha, Roger Mills, Rogers, Seminole, Sequoyah, Stephens, Texas, Tillman, Tulsa, Wagoner, Washington, Washita, Woods, Woodward -- 40001, 40003, 40005, 40007, 40009, 40011, 40013, 40015, 40017, 40019, 40021, 40023, 40025, 40027, 40029, 40031, 40033, 40035, 40037, 40039, 40041, 40043, 40045, 40047, 40049, 40051, 40053, 40055, 40057, 40059, 40061, 40063, 40065, 40067, 40069, 40071, 40073, 40075, 40077, 40079, 40081, 40083, 40085, 40087, 40089, 40091, 40093, 40095, 40097, 40099, 40101, 40103, 40105, 40107, 40109, 40111, 40113, 40115, 40117, 40119, 40121, 40123, 40125, 40127, 40129, 40131, 40133, 40135, 40137, 40139, 40141, 40143, 40145, 40147, 40149, 40151, 40153">Adair,
+  Alfalfa, Atoka, Beaver, Beckham, Blaine, Bryan, Caddo, Canadian, Carter,
+  Cherokee, Choctaw, Cimarron, Cleveland, Coal, Comanche, Cotton, Craig, Creek,
+  Custer, Delaware, Dewey, Ellis, Garfield, Garvin, Grady, Grant, Greer,
+  Harmon, Harper, Haskell, Hughes, Jackson, Jefferson, Johnston, Kay,
+  Kingfisher, Kiowa, Latimer, Le Flore, Lincoln, Logan, Love, McClain,
+  McCurtain, McIntosh, Major, Marshall, Mayes, Murray, Muskogee, Noble, Nowata,
+  Okfuskee, Oklahoma, Okmulgee, Osage, Ottawa, Pawnee, Payne, Pittsburg,
+  Pontotoc, Pottawatomie, Pushmataha, Roger Mills, Rogers, Seminole, Sequoyah,
+  Stephens, Texas, Tillman, Tulsa, Wagoner, Washington, Washita, Woods,
+  Woodward -- 40001, 40003, 40005, 40007, 40009, 40011, 40013, 40015, 40017,
+  40019, 40021, 40023, 40025, 40027, 40029, 40031, 40033, 40035, 40037, 40039,
+  40041, 40043, 40045, 40047, 40049, 40051, 40053, 40055, 40057, 40059, 40061,
+  40063, 40065, 40067, 40069, 40071, 40073, 40075, 40077, 40079, 40081, 40083,
+  40085, 40087, 40089, 40091, 40093, 40095, 40097, 40099, 40101, 40103, 40105,
+  40107, 40109, 40111, 40113, 40115, 40117, 40119, 40121, 40123, 40125, 40127,
+  40129, 40131, 40133, 40135, 40137, 40139, 40141, 40143, 40145, 40147, 40149,
+  40151, 40153</td>
+ </tr>
+ <tr height=30 style='mso-height-source:userset;height:22.5pt'>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td height=30 class=xl24 width=262 style='height:22.5pt;width:197pt'>Name</td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=93 style='width:70pt'>2005 Population</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=93 style='width:70pt'>2010 Population Projection</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=65 style='width:49pt'>Change in Population</td>
+<!-- Only show the Education column when that option is selected --><!-- k <> 4 AND k <> 5 AND -->
+  <td class=xl25 width=74 style='width:56pt'>% Change in Population</td>
+  <td class=xl25 width=133 style='width:100pt'>% of Population in 2005</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="White, Non-Hispanic ">White, Non-Hispanic<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="2574890">2,574,890</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="2715872">2,715,872</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="140982">140,982</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.05">5%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="0.72589999999999999">72.59%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="White Hispanic ">White Hispanic<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="211717">211,717</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="262275">262,275</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="50558">50,558</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.24">24%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="5.9700000000000003E-2">5.97%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="Non-White Hispanic ">Non-White Hispanic<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="23078">23,078</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="25989">25,989</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="2911">2,911</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.13">13%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="6.4999999999999997E-3">0.65%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="Black or African American ">Black or African American<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="268062">268,062</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="287907">287,907</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="19845">19,845</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.07">7%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="7.5600000000000001E-2">7.56%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="American Indian or Alaska Native ">American Indian or Alaska
+  Native<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="278041">278,041</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="300105">300,105</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="22064">22,064</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.08">8%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="7.8399999999999997E-2">7.84%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="Asian ">Asian<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="53835">53,835</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="61508">61,508</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="7674">7,674</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.14">14%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="1.52E-2">1.52%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="Native Hawaiian and other Pacific Islander ">Native Hawaiian and other
+  Pacific Islander<span style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="2359">2,359</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="2619">2,619</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl30 width=65 style='width:49pt' x:num>260</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.11">11%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="6.9999999999999999E-4">0.07%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td height=17 class=xl26 width=262 style='height:12.75pt;width:197pt'
+  x:str="2 or more races ">2 or more races<span
+  style='mso-spacerun:yes'> </span></td>
+<!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="135138">135,138</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=93 style='width:70pt' x:num="143347">143,347</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl27 width=65 style='width:49pt' x:num="8209">8,209</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl28 width=74 style='width:56pt' x:num="0.06">6%</td>
+<!-- Only show the Education column when that option is selected --><!--(k <> 4 AND k <> 5 AND)-->
+  <td class=xl29 width=133 style='width:100pt' x:num="3.8100000000000002E-2">3.81%</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=262 style='height:12.75pt;width:197pt'>Source:
+  Economic Modeling Specialist Inc.</td>
+  <td colspan=5 class=xl31 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td colspan=6 height=40 class=xl36 width=720 style='height:30.0pt;width:542pt'>&nbsp;&nbsp;</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=262 style='width:197pt'></td>
+  <td width=93 style='width:70pt'></td>
+  <td width=93 style='width:70pt'></td>
+  <td width=65 style='width:49pt'></td>
+  <td width=74 style='width:56pt'></td>
+  <td width=133 style='width:100pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

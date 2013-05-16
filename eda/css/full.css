@@ -1,0 +1,235 @@
+/* Contains the bulk of the CSS rules for the fully presented layout */
+/* Revised on July 4, 2005 */
+
+/* ------------------------------------ Body and Wrapper -----  */
+body {
+	background: #00354f url(../images/bg3.jpg) repeat-x fixed top;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: x-small; /* False value */
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	font-size: small;	/* Compliant value */
+}
+html>body	{
+	font-size: small; /* Be nice to Opera  */	
+}
+#main-wrapper {
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 762px;
+	text-align: left;
+}
+#wrap {
+	float: left;
+	width: 762px;
+	border: 2px solid #003148;
+	text-align: left;
+	voice-family: "\"}\""; 
+	voice-family: inherit;
+	width: 758px;	/* Compliant value */
+}
+html>#wrap	{
+	width: 758px; /* Be nice to Opera */	
+}
+
+/* ------------------------------------ Header and Main Container -----  */
+#main-header {
+	float: left;
+	clear: left;
+	width: 758px;
+	height: 87px;
+	overflow: hidden;
+	background: #000 url(../images/header3.gif) top left no-repeat;
+}
+#photo-row {
+	float: left;
+	clear: left;
+	border-bottom: 2px solid #000;
+	width: 758px;
+	height: 128px;
+	overflow: hidden;
+	background: #000 url(../images/photo-row.jpg) top left no-repeat;
+}
+#sub-row {
+	float: left;
+	clear: left;
+	width: 758px;
+	height: 20px;
+	overflow: hidden;
+	background: #000 url(../images/sub-row3.gif) top left no-repeat;
+}
+#main-body {
+	float: left;
+	clear: left;
+	background: #fff url(../images/menu-bg-3.gif) top left repeat-y;
+	margin: 0;
+	padding: 0;
+	width: 758px;
+}
+
+/* ------------------------------------ Menu Column -----  */
+#menu-column{
+	float: left;
+	clear: left;
+	margin: 0;
+	padding: 0;
+	width: 206px;
+	display: inline;
+	border-top: 1px solid #524e3f;
+}
+.menu-header {
+	display: block;
+	padding: 0;
+	margin: 0;
+	width: 206px;
+	text-align: center;
+	background-color: #f3b61f;
+	color: #000;
+	border-bottom: 1px solid #524e3f;
+	font-size: x-small;
+	text-transform: uppercase;
+}
+.main-menu, .main-menu ul{
+	float: left;
+	display: block;
+	background-color: #716a55;
+	width: 206px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.main-menu li {
+	padding: 0;
+	display: block;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+	border-bottom: 1px solid #524e3f;
+}
+.main-menu li a {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: block;
+	padding: 4px;
+	text-decoration: none;
+	font-size: x-small;
+	text-transform: uppercase;
+	color: #fff;
+}
+.main-menu li a:visited {
+	color: #fff;
+}
+.main-menu li a:active, .main-menu li a:hover {
+	color: #fff;
+	background-color: #AA741D;
+}
+
+
+/* ------------------------------------ Main Content Area -------------------  */
+#content-box {
+	float: left;
+	clear: right;
+	width: 530px;
+	margin: 0;
+	padding: 10px;
+	display: inline;
+}
+
+/* Common footer for all pages */
+#footer {
+	float: left;
+	clear: both;
+	width: 758px;
+	background: #51595d url(../images/footer3-bg.gif) top left repeat;
+	border-top: 1px solid #000;
+}
+#footer-contact {
+	float: right;
+	margin: 5px;
+	text-align: right; 
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #fff;
+}
+
+#footer a {
+	color: #dcdcb8;
+}
+
+/*-----------------------------------------------------sIFR-----------------------*/
+/*---------------------------These are standard sIFR styles... do not modify------*/
+
+.sIFR-flash {
+	visibility: visible !important;
+	margin: 0;
+}
+
+.sIFR-replaced {
+	visibility: visible !important;
+}
+
+span.sIFR-alternate {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+	display: block;
+	overflow: hidden;
+	letter-spacing: 0;
+}
+
+/* These "decoy" styles are used to hide the browser text before it is replaced... 
+the negative-letter spacing in this case is used to make the browser text 
+metrics match up with the sIFR text metrics since the sIFR text in this example is so much narrower... 
+your own settings may vary... any weird sizing issues you may run into are usually fixed by tweaking these decoy styles */
+
+.sIFR-hasFlash h1 {
+/*visibility: hidden;*/
+	width: 360px;
+	font-size: 30px;
+	letter-spacing: 5px;
+	margin: 0;
+	padding: 0;
+	margin-top: 3px;
+}
+.sIFR-hasFlash h2 {
+/*visibility: hidden;*/
+	width: 360px;
+	font-size: 20px;
+	letter-spacing: 5px;
+	margin: 0;
+	padding: 0;
+	margin-top: 3px;
+}
+/*
+.sIFR-hasFlash .sub-headline-container h2 {
+	width: 185px;
+	margin: 0;
+	padding: 0;
+}
+
+.sIFR-hasFlash h3 {
+	visibility: hidden;
+	letter-spacing: -6px;
+	font-size: 25px;
+}
+
+.sIFR-hasFlash h4 {
+	visibility: hidden;
+	letter-spacing: -5px;
+	font-size: 21px;
+}
+
+.sIFR-hasFlash h5#pullquote {
+	letter-spacing: -4px;
+	visibility: hidden;
+	font-size: 24px;
+}*/
+

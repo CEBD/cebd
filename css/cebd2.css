@@ -1,0 +1,518 @@
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 76%; /*IE hack to keep text readable at small settings*/
+	color: black; 
+	background-color: #C8BD9F;
+	border: 1px solid #174A7C;
+	width: 760px;
+	position: relative;
+	margin-top: 0;
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+.hide {
+	display: none;
+}
+
+#header {
+	width: 760px;
+	margin: 0px; 
+	padding: 0px; 
+	background-color: white;
+}
+
+#topheader {
+	height: 1.5em;
+	margin: 0px;
+	background-color: #174A7C;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 2px 0px;
+}
+
+#topheader2 {
+	text-align: center;
+	color: white;
+	font-weight: 700;
+}
+
+#subheader {
+	background: url("../images/mtn3.jpg") right no-repeat;
+	width: 760px; 
+	height: 120px; 
+	margin: 0px; 
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px;
+	border-top: 1px solid #174A7C;
+	border-bottom: 1px solid #174A7C; 
+	background-color: white;
+}
+/*CEBD Logo with z-index*/
+/* #cebd {
+	width: 95px;
+	height: 95px;
+	background: transparent url("../images/cebd-logo.gif") center no-repeat;
+	z-index: 2;
+	position: absolute;
+	top: 100px;
+	left: 340px;
+} */
+
+/*Date Bar*/
+#midbackground {
+	width: 760px;
+	height: 1.5em;
+	margin: 0px;
+	background-color: #174A7C;
+	border-top: 1px solid white;
+
+	border-bottom: 3px double white;
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 2px 0px;
+}
+
+* html body div#midbackground
+{
+border-bottom: 3px double #174A7C;
+}
+
+#midbar {
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+#crumbs {
+	float: left;
+	width: 400px;
+	font-weight: 700;
+	color: white;
+	text-align: left;
+	margin: 2px;
+	padding-left: 10px;
+}
+
+#crumbs a:link {
+	color: white;
+}
+
+#crumbs a:visited {
+	color: white;
+}
+
+#crumbs a:hover {
+	background: white;
+	color: #174A7C;
+}
+
+#date {
+	float: right;
+	width: 200px;
+	font-weight: 700;
+	color: white;
+	text-align: right;
+	margin-top: 2px;
+	padding-right: 10px;
+}
+
+/* Container div */
+#container {
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 760px;
+	height: auto;
+	background-color: white;
+	overflow: auto;
+	/* background: white url("../images/cebd-logo.gif") no-repeat bottom center;*/
+}
+
+/* Menu on left side */
+#menu {
+	position: relative;
+	float: left;
+	margin: 0;
+	margin-right: 0;
+	margin-left: 10px;
+	border: none;
+	padding: 10px 0px 0px 0px;
+	width: 280px; /*Used to correct a display error on IE6*/
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	width: 270px;  /* Actual width */
+}
+html>#menu {
+	width: 270px;  /* Be nice to Opera */
+}
+#mainmenu{
+	position: relative;
+	margin: 0px 0px 10px 0px;
+	padding: 0;
+	padding-bottom: 1px;
+	border: solid 1px #174A7C;
+	color: black;
+	background-color: #B0BEDC;
+	width: 268px; /*Used to correct a display error on IE6*/
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	width: 268px;  /* Actual width */
+}
+html>#mainmenu {
+	width: 268px;  /* Be nice to Opera */
+}
+#mainmenu h2{
+	font-size: 1.1em;
+	text-align: center;
+	margin: 0px;
+	color: white;
+	background-color: #174A7C;
+	border-top: 1px solid #B0BEDC;
+	border-bottom: 1px solid #B0BEDC;
+	width: 100%;
+	clear: both;
+	font-weight: 600;
+	padding: 2px 0px;
+}
+#mainmenu ul{
+	list-style: none;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+}
+#mainmenu li{
+	color: white;
+	font-weight: bolder;
+	line-height: 1.2em;
+	list-style: none;
+	border-top: 1px solid #174A7C;
+	margin: 0;
+	padding: 0;
+	padding-left: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 1em;
+}
+#mainmenu a:link {
+color: #174A7C;
+background-color: transparent;
+text-decoration: none;
+}
+
+#mainmenu a:visited {
+color: #174A7C;
+background-color: transparent;
+text-decoration: none;
+}
+
+#mainmenu a:hover {
+color: #174A7C;
+background-color: transparent;
+text-decoration: underline;
+}
+.altmenu{
+	color: white;
+	text-decoration: none;
+	line-height: 1.2em;
+	list-style: none;
+	font-size: 1em; 
+	background-color: #efefef;
+	margin: 0;
+	padding: 0;
+}
+#submenu{
+	padding: 0;
+	padding-left: 20px;
+	margin: 0;
+}
+#submenu li{
+	list-style: none;
+	font-size: .8em;
+	margin: 0;
+	padding-bottom: 4px;
+}
+
+/* News and Events */
+#news {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 10px;
+	border: solid 1px #174A7C;
+	color: black; 
+	background-color: #B0BEDC;
+}
+#news h3{
+	font-size: 1em;
+	text-align: center;
+	padding: 5px 0px;
+	margin: 0px;
+	color: white;
+	background-color: #174A7C;
+	border-top: solid 1px #B0BEDC;
+	border-bottom: double 3px #B0BEDC;
+}
+#news h4{
+	font-size: .9em;
+	text-align: left;
+	padding: 5px;
+	margin: 0px;
+	color: #4C7899;
+	background-color: transparent;
+}
+#news p{
+	line-height: 1.2em;
+	font-size: .8em;
+	text-align: justify;
+	padding: 0px 15px 10px 10px;
+	margin: 0;
+}
+
+/* Address Menu */
+#addressmenu, #contacts{
+	position: relative;
+	font-size: 1em;
+	border: 1px solid #174A7C;
+	margin: 0;
+	margin-bottom: 5px;
+	color: black; 
+	background-color: #B0BEDC;
+	padding: 0;
+	padding-bottom: 5px;
+	width: 268px; /*Used to correct a display error on IE6*/
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	width: 268px;  /* Actual width */
+}
+html>#addressmenu, #contacts {
+	width: 268px;  /* Be nice to Opera */
+}
+#news h2, #addressmenu h2, #contacts h2{
+	font-size: 1em;
+	text-align: center;
+	padding: 5px 0px;
+	margin: 0px;
+	color: white;
+	background-color: #174A7C;
+	border-top: 1px solid #B0BEDC;
+	border-bottom: double 3px #B0BEDC;
+}
+#addressmenu ul, #contacts ul{
+	font-size: 0.8em;
+	list-style: none;
+}
+#addressmenu p, #contacts p{
+	font-size: 0.8em;
+	line-height: 0.8em; 
+	margin: 2px 10px;
+	padding: 0;
+	text-align: right;
+}
+
+
+/* Content on right side */
+#content {
+	position: relative; 
+	margin: 10px 0 20px 290px;
+	padding: 0px 10px;
+	width: 448px;
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	width: 441px;  /* Actual width */
+}
+html>#content {
+	width: 441px;  /* Be nice to Opera */
+}
+#content p{
+	font-size: 0.9em;
+	text-align: justify;
+	margin-bottom: 10px;
+	padding: 0px 5px;
+	color: black;
+	background-color: transparent;	
+}
+#content h1, #newstitle{
+	font-size: 1.2em;
+	text-align: center;
+	margin: 0px;
+	color: white;
+	background-color: #FF9900;
+	border-top: 1px solid #FFCC80;
+	border-bottom: double 3px #FFCC80;
+	width: 100%;
+	clear: both;
+	font-weight: 600;
+	padding: 2px 0px;
+}
+#content h2, #content h3{
+	font-size: 1.1em;
+	text-align: center;
+	margin: 0px;
+	color: white;
+	background-color: #FF9900;
+	border-top: double 3px #FFCC80;
+	border-bottom: double 3px #FFCC80;
+	width: 100%;
+	clear: both;
+	font-weight: 600;
+	padding: 2px 0px;
+}
+/* Star html hack for IE only */
+* html body div#content h1
+{
+	border-bottom: double 3px #FF9900;
+}
+* html body div#content h3, * html body div#content h2
+{
+	border-top: double 3px #FF9900;
+	border-bottom: double 3px #FF9900;
+}
+
+#content li{
+	position: relative;
+	list-style: none;
+	background: url("../images/dash.gif") no-repeat top left;
+	padding-left: 12px;
+	font-size: 0.9em; 
+}
+
+#remi, #osbdc, #oame, #story, #general{
+	margin: 0;
+	margin-bottom: 20px;
+	padding: 0;
+	position: relative;
+	width: 446px; 
+	height: auto;
+	border: 1px solid #FF9900; 
+	background-color: #FFCC80;
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	width: 441px;  /* Actual width */
+}
+html>#remi, #osbdc, #oame, #story, #general {
+	width: 441px;  /* Be nice to Opera */
+}
+
+ .news h4, .events h4 
+ {
+ font-style: italic;
+ font-size: 1em;
+ text-align: left;
+ color: white;
+ background-color: transparent;
+ border: 0;
+ padding: 5px;
+ }
+
+#tagline
+{
+list-style: none;
+margin-left: 0;
+padding-left: 5px;
+font-size: 1.1em;
+color: black;
+background: none;
+}
+#tagline li
+{
+background: none;
+margin-left: 0;
+padding: 0;
+border: 0;
+}
+
+/* Footer */
+#footer {
+	clear: both;
+	padding: 0px;
+	height: auto;
+	border-top: 1px solid #174A7C;
+}
+
+#subfooter {
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 760px; 
+	height: 1.5em;
+	background-color: #174A7C;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+/*
+#footerleft {
+	width: 50%;
+	float: left;
+	font-weight: 500;
+	color: white;
+	text-align: left;
+	margin-top: 2px;
+	display: block;
+}
+
+#footerright {
+	width: 50%;
+	float: right;
+	font-weight: 500;
+	color: white;
+	text-align: right;
+	margin-top: 2px;
+	display: block;
+}
+*/
+.strong {
+	font-weight: 600;
+}
+
+a:link {
+	color: #303030;
+}
+
+a:visited {
+	color: #303030;
+}
+
+a:hover {
+	background: #FFC080;
+	color: white;
+}
+
+/* Forms - Mark Newhouse A List Apart */
+
+form
+{
+padding-bottom: 10px;
+}
+div.row {
+  clear: both;
+  padding-top: 10px;
+	padding-bottom: 0;
+}
+
+div.row span.label {
+  float: left;
+  width: 130px;
+  text-align: right;
+  }
+
+div.row span.formw {
+  float: right;
+  width: 300px;
+	padding-right: 10px;
+  text-align: left;
+  }
+#alliance_logo, #osbdc_logo, #cebd_logo{
+float: left;
+margin: 5px;
+padding: 2px;
+border: 1px solid #FF9900;
+}
+tr {
+vertical-align: top;
+}

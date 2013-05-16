@@ -1,0 +1,6 @@
+# Check the datatypes on some of the fields
+
+mailto : paul.walenciak@okalliance.com
+mimeon : yes
+nomailfooter : yes
+gotosuccess : http://www.swosu.edu/bdc/

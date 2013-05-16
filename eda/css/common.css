@@ -1,0 +1,57 @@
+/* http://www.swosu.edu/athletics/css/common.css */
+
+/* common and default css styles and classes */
+.floatright{
+	float: right;
+	margin: 5px;
+	margin-right: 0px;
+}
+.floatleft{
+	float: left;
+	margin: 5px;
+	margin-left: 0px;
+}
+.textcenter, .center{text-align: center;}
+.textleft{text-align: left;}
+.textright{text-align: right;}
+.underline {text-decoration: underline;}
+img.block {display: block;}
+a img {border: none;}
+
+.hidemeright, .hidemeleft {
+	height: 0px;
+	width: 0px;
+	overflow: hidden;
+	text-indent: -5000px;
+}
+.hidemeleft {float: left;}
+.hidemeright {float: right;}
+.hide {display: none;}
+
+
+ul.noBullet li {list-style-type: none;}
+
+.breadcrumbs{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+hr {
+	border-top: 1px dashed #ccc;
+	color: #fff;
+	background-color: #fff;
+	height: 1px;
+}
+
+/* Content Start and default header styles */
+#contentstart {
+	width: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+	height: 0px;
+	line-height: 0px;
+}
+
+
+

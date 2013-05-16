@@ -1,0 +1,6 @@
+# Check the datatypes on some of the fields
+
+mailto : chiappj@swosu.edu, nelsons@swosu.edu, wallacl@swosu.edu
+mimeon : yes
+nomailfooter : yes 
+gotosuccess : http://www.swosu.edu/depts/bdc/resume/thankyou.htm
